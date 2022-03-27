@@ -11,6 +11,8 @@ public class MybatisApplication {
         System.out.println("dev 分支的代码测试");
 
         System.out.println("这是主分支冲突");
+
+        System.out.println("冲突测试");
     }
 
 }
